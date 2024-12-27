@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ButtonWithGradient">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="background">@drawable/bg_gradient_btn</item>
+    </style>
+
+    <style name="Theme.CourierApp.NoActionBar.FullScreen">
+        <item name="android:windowFullscreen">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowBackground">@drawable/bg_gradient_table2</item>
+    </style>
+</resources>
